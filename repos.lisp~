@@ -1,0 +1,5 @@
+#|Here's an example curl request calling that endpoint, where TOKEN should be replaced with your OAuth token:
+
+curl -v -H "Authorization: token TOKEN" https://api.github.com/user/repos -d '{"name":"chocolate-lightning"}'
+|#
+
